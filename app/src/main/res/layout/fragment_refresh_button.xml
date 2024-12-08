@@ -10,4 +10,13 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Refresh Weather" />
+
+    <Button
+    android:id="@+id/go_to_toolbar_button"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Go to Toolbar Page"
+    android:layout_gravity="center" />
+
+
 </LinearLayout>
